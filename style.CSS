@@ -161,9 +161,7 @@ img.current-bikes{
 }
 
 #hybrid{
-    text-align: center;
-    width:400px;
-    height: 300px;
+    margin:0px auto;
 }
 
 .bike-name{
@@ -262,6 +260,6 @@ background-color: aqua;
 .whatsapp-logo{
     width:50px;
 } 
-.Bike-image1{
+.bike-image1{
    width:100px;
 }
