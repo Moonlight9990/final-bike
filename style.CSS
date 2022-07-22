@@ -126,14 +126,20 @@ img.current-bikes{
 
 #bmx2{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 #tandem2{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 #cyclocross2{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 .bike-image{
@@ -144,14 +150,20 @@ img.current-bikes{
 
 #road2{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 #mountain2{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 #hybrid{
     text-align: center;
+    width:400px;
+    height: 300px;
 }
 
 .bike-name{
