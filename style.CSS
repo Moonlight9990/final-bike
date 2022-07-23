@@ -151,8 +151,8 @@ img.current-bikes{
 
 .bike-image{
     margin: 0px auto;
-    width: 70%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
 }
 
 #road2{
