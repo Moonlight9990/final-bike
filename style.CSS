@@ -116,6 +116,13 @@ img.current-bikes{
     height: 180px;
 }
 
+.current-bikes1{
+   float:right;
+   margin:0px auto;
+   width:100px;
+   height:100px;
+}
+
 #type-of-bikes{
     margin: 0px;
 }
