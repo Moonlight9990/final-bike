@@ -272,3 +272,11 @@ background-color: aqua;
 .bike-image1{
    width:100px;
 }
+
+.linking{
+  text-decoration:none;
+  background:black;
+  color:white;
+  text-align: center;
+  width:100%;
+}
