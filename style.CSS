@@ -92,11 +92,14 @@ body{
 }
 
 body#about-type{
-    margin: 0px;
+    margin: 0 auto;
     background-image: url("./image/footer1.jpg");
     line-height: 1.6;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 600;
+     width: 980px;
+    
+    background:#fff;
 }
 
 body #about-type > p{
@@ -118,13 +121,13 @@ img.current-bikes{
 
 .current-bikes1{
    float:right;
-   margin:0px auto;
+   margin:0 auto;
    width:100px;
    height:100px;
 }
 
 #type-of-bikes{
-    margin: 0px;
+    margin: 0;
 }
 
 .welcome{
@@ -150,7 +153,7 @@ img.current-bikes{
 }
 
 .bike-image{
-    margin: 0px auto;
+    margin: 0 auto;
     width: 100%;
     height: 100%;
 }
@@ -168,14 +171,14 @@ img.current-bikes{
 }
 
 #hybrid{
-    margin:0px auto;
+    margin:0 auto;
     text-align:center;
     width:100%;
 }
 
 .bike-name{
     text-align: center;
-    margin: 0px auto;
+    margin: 0 auto;
     text-transform: uppercase;
     font-family: Verdana;
     font-weight: 600;
@@ -218,18 +221,18 @@ img.bimage{
 
 #about{
     background-color: blueviolet;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 .us{
     text-align: center;
-    margin:0px auto ;
+    margin:0 auto ;
     font-weight: 900;
 }
 
 .web{
     text-align: center;
-    margin:0px auto ;
+    margin:0 auto ;
     font-weight: 900;
 }
 
@@ -279,4 +282,20 @@ background-color: aqua;
   color:white;
   text-align: center;
   width:100%;
+}
+#offers{
+width: 980px;
+    margin:0 auto;
+    background:#fff;
+}
+
+#contact{
+width: 980px;
+    margin:0 auto;
+    background:#fff;
+}
+#about{
+width: 980px;
+    margin:0 auto;
+    background:#fff;
 }
