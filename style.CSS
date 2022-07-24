@@ -210,7 +210,8 @@ img.bimage{
     position: absolute;
     margin: 0px ;
     z-index: -1;
-    width: 2000px;
+    width: 100%;
+    height: 100%;
 }
 
 .sorry{
